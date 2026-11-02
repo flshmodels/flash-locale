@@ -1,0 +1,4 @@
+Key,Context,Example,Source,es,fr
+welcome,HUD,,Hello {name}!,¡Hola {name}!,Bonjour {name} !
+balance,HUD,,Balance: {coins:int},Saldo: {coins:int},Solde : {coins:int}
+close,Menu,,Close,Cerrar,Fermer
